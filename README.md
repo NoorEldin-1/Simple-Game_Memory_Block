@@ -1,2 +1,2 @@
-# Simple-Game_Memory_Block_Game
+# Simple-Game_Memory_Block
 Html Css and JavaScript
